@@ -1,4 +1,4 @@
-# Harunasu
+# harunasu
 
 ML Engineer based in Tokyo. Focused on anomaly detection, RAG systems, and LLM architecture.
 
