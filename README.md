@@ -19,5 +19,5 @@ Weather-based outfit recommendation with AI virtual try-on. Built solo with Reac
 
 ## Links
 
-- [Zenn](https://zenn.dev/) *(coming soon)*
+- [Zenn](https://zenn.dev/harunasu)
 - [AtCoder](https://atcoder.jp/users/harunasu)
