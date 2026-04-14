@@ -7,7 +7,7 @@ Currently digging into decoder architecture internals (Gated DeltaNet, hybrid at
 ## What I Do
 
 - **ML Engineering**: Anomaly detection systems (AutoEncoder), domain-specific RAG pipelines, LLM fine-tuning
-- **Web Development**: Full-stack with JavaScript, Python, Java (and their ecosystems)
+- **Web Development**: JavaScript, Python, Java (and their ecosystems)
 - **Competitive Programming**: [AtCoder](https://atcoder.jp/users/harunasu) — Green-rated, aiming for Cyan
 - **OSS**: Recent contribution to [Deno](https://github.com/denoland/deno)
 
