@@ -1,6 +1,6 @@
 # harunasu
 
-ML Engineer based in Tokyo. Focused on anomaly detection, RAG systems, and LLM architecture.
+Student/ML Engineer based in Tokyo. Focused on anomaly detection, and LLM architecture.
 
 Currently digging into decoder architecture internals (Gated DeltaNet, hybrid attention, MoE).
 
@@ -8,12 +8,16 @@ Currently digging into decoder architecture internals (Gated DeltaNet, hybrid at
 
 - **ML Engineering**: Anomaly detection systems (AutoEncoder), domain-specific RAG pipelines, LLM fine-tuning
 - **Web Development**: JavaScript/TypeScript, Python, Java, Rust, C/C++ (and their ecosystems)
-- **Competitive Programming**: [AtCoder](https://atcoder.jp/users/harunasu) — Blue-rated 
+- **Competitive Programming**: [AtCoder](https://atcoder.jp/users/harunasu) Blue-rated 
 - **OSS**: Recent contribution to [Deno](https://github.com/denoland/deno)
+
+## Paper
+My paper has been accepted for IEEE CASE 2026! 
+It’s a single-author paper on machine learning. I hope you’ll look forward to my presentation.
 
 ## Hackathon
 
-**FitCast** — DeveloperWeek 2026 Winner (Perfect Corp Prize)
+**FitCast** DeveloperWeek 2026 Winner (Perfect Corp Prize)
 Weather-based outfit recommendation with AI virtual try-on. Built solo with React Native + Node.js.
 [Devpost](https://devpost.com/software/fitcast-fna8px)
 
