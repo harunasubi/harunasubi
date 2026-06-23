@@ -12,7 +12,7 @@ Currently digging into decoder architecture internals (Gated DeltaNet, hybrid at
 - **OSS**: Recent contribution to [Deno](https://github.com/denoland/deno)
 
 ## Paper
-My paper has been accepted for IEEE CASE 2026! 
+My paper has been accepted for [IEEE CASE 2026](https://2026.ieeecase.org/)!
 It’s a single-author paper on machine learning. I hope you’ll look forward to my presentation.
 
 ## Hackathon
