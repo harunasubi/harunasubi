@@ -1,6 +1,6 @@
 # harunasu
 
-Student/ML Engineer based in Tokyo. Focused on anomaly detection, and LLM architecture.
+Student / ML Engineer based in Tokyo. Focused on anomaly detection, and LLM architecture.
 
 Currently digging into decoder architecture internals (Gated DeltaNet, hybrid attention, MoE).
 
